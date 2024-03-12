@@ -1,8 +1,12 @@
-# VD | Maqueta para visualización de datos con HTML, CSS, D3 y Svelte
+# VD | Maqueta para web (HTML, CSS, Svelte)
 
-### Visualización de datos cuantitativos con HTML, CSS, D3 y Svelte.
+<!-- image .md -->
+![VD](thumbnail.png)
 
 ---
+
+## Estructura de archivos:
+
 
 ## Requerimientos:
 
