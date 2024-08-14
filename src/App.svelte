@@ -19,4 +19,8 @@
 
 <!-- Estilos CSS -->
 <style>
+  .title {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
 </style>
